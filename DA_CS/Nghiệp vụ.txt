@@ -1,0 +1,47 @@
+Tìm kiếm sản phẩm
+Người dùng nhập từ khóa tìm kiếm hoặc sử dụng tính năng gợi ý tìm kiếm
+Hệ thống hiển thị danh sách kết quả tìm kiếm
+Người dùng có thể lọc kết quả theo danh mục sản phẩm hoặc khoảng giá
+Xem chi tiết sản phẩm
+Người dùng chọn sản phẩm để xem chi tiết
+Hệ thống hiển thị thông tin chi tiết sản phẩm, bao gồm: tên sản phẩm, giá, hình ảnh, mô tả, đánh giá
+Đặt hàng
+Người dùng thêm sản phẩm vào giỏ hàng và điền thông tin giao hàng
+Hệ thống tạo đơn hàng và cập nhật trạng thái đơn hàng
+Người dùng có thể chọn phương thức thanh toán và sử dụng voucher
+Xem thông tin đơn hàng
+Người dùng xem thông tin chi tiết đơn hàng, bao gồm: tên sản phẩm, giá, số lượng, địa chỉ giao hàng, thời gian giao hàng dự kiến, trạng thái đơn hàng
+Hủy đơn hàng
+Người dùng hủy đơn hàng và cập nhật trạng thái đơn hàng
+Đánh giá sản phẩm
+Người dùng đánh giá sản phẩm và cập nhật thông tin đánh giá
+Gợi ý sản phẩm
+Hệ thống gợi ý sản phẩm cho người dùng dựa trên lịch sử mua hàng, khoảng cách và bestseller
+Quản lý menu
+Người bán thêm, sửa hoặc xóa sản phẩm trong menu của cửa hàng
+Người bán cập nhật trạng thái món ăn
+Quản lý đơn hàng
+Người bán xem danh sách đơn hàng và cập nhật trạng thái đơn hàng
+Người bán có thể đặt đơn hàng trước và tạo menu combo sản phẩm
+Gửi thông báo đến người dùng
+Hệ thống gửi thông báo đến người dùng khi có đơn hàng mới hoặc trạng thái đơn hàng thay đổi
+Hỗ trợ trực tuyến
+Người dùng và người bán có thể sử dụng chat box để trò chuyện và giải đáp thắc mắc.
+
+___ Phân tích cụ thể hơn về quyền hạn
+Quyền của khách hàng:
+Xem danh sách các sản phẩm, món ăn của các cửa hàng.
+Đặt hàng sản phẩm, món ăn của cửa hàng và thêm vào giỏ hàng.
+Theo dõi trạng thái đơn hàng đã đặt, cập nhật thông tin đơn hàng.
+Đánh giá sản phẩm, món ăn, cửa hàng.
+Gửi tin nhắn cho cửa hàng.
+Quyền của cửa hàng:
+Quản lý danh sách sản phẩm, món ăn của cửa hàng.
+Quản lý đơn hàng của khách hàng, cập nhật trạng thái đơn hàng.
+Tạo các chương trình khuyến mãi, giảm giá và quản lý đơn hàng được áp dụng chương trình.
+Xem thông tin khách hàng, đánh giá của khách hàng.
+Quyền của quản trị viên (Admin):
+Quản lý các thông tin của các cửa hàng, bao gồm cả thông tin cửa hàng và thông tin sản phẩm, món ăn của cửa hàng.
+Quản lý thông tin khách hàng, bao gồm thông tin cá nhân, đơn hàng, đánh giá của khách hàng.
+Quản lý các chương trình khuyến mãi, giảm giá và giỏ hàng của khách hàng.
+Quản lý và xử lý các khiếu nại, thắc mắc của khách hàng.
